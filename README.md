@@ -6,4 +6,8 @@ NASA's Socioeconomic Data & Applications Center (SEDAC) is a crossroads of the d
 
 [The Promise and Perils of Big Data](https://www.aspeninstitute.org/wp-content/uploads/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf)
 
-This book explores both sides of the Big Data explosion, considering the ethical impacts of data analytics and crediting the beneficial impacts it has caused.
+David Bollier, Rapporteur
+
+The Aspen Institue 
+
+This book explores both sides of the Big Data explosion, considering the ethical impacts of data analytics and crediting the beneficial impacts it has caused. I am intrigued by this because the emergence of Big Data reminds me of the emergence of the internet. I think there is a lot to consider with these technological advances, the good and the bad. 
