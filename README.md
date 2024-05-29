@@ -8,3 +8,8 @@ Throughout my academic journey, I have worked extensively with big data and data
 
 Check out my projects below to see some of the work I've done!
 
+#Road Repair Investigators
+In this project, I investigated the processing of road repair requests in San Diego County. By analyzing socioeconomic, topographical, application, and anecdotal data, I aimed to uncover potential biases in the prioritization of repair requests. Collaborating with two other graduate students, we developed web tools to host and distribute our findings, which are available at Road Repair Investigators.
+https://rb.gy/liryb2
+
+
