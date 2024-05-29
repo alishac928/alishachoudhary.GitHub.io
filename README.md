@@ -1,13 +1,10 @@
 # alishachoudhary.GitHub.io
-[NASA Socioeconomic Data & Applications Center](https://sedac.ciesin.columbia.edu/)
 
+# About Me
 
-NASA's Socioeconomic Data & Applications Center (SEDAC) is a crossroads of the disciples of earth science and social sciences. It facilitates the development of applications to study anthropogenic effects via data from both fields. In this day & age, the effects of climate change are well felt & the implications are understood to be grave. Studying the intersection of these fields will be vital to prevent a worsening situation. 
+Hello! I'm Alisha Choudhary, a recent graduate with a Master's in Astronomy from San Diego State University and a Bachelor's in Physics with a specialization in Astrophysics from the University of California, Irvine. I have a strong background in data analysis and software development, with experience in Python, MATLAB, R, SQL, and Jupyter Notebooks.
 
-[The Promise and Perils of Big Data](https://www.aspeninstitute.org/wp-content/uploads/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf)
+Throughout my academic journey, I have worked extensively with big data and data analytics, honing my skills as a creative problem solver and fast learner. I am passionate about leveraging my technical and quantitative skills to provide strategic input and innovative solutions. I'm excited to apply my transferable skills in new and challenging environments.
 
-David Bollier, Rapporteur
+Check out my projects below to see some of the work I've done!
 
-The Aspen Institue 
-
-This book explores both sides of the Big Data explosion, considering the ethical impacts of data analytics and crediting the beneficial impacts it has caused. I am intrigued by this because the emergence of Big Data reminds me of the emergence of the internet. I think there is a lot to consider with these technological advances, the good and the bad. 
