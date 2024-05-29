@@ -16,3 +16,8 @@ https://rb.gy/liryb2
 In this project, I investigated metallicity gradients in young stellar populations of galaxies using data from the SDSS-IV MaNGA survey. Inspired by recent findings on the stellar fundamental metallicity relation (sFMR), I aimed to identify metallicity trends in stellar populations younger than 300 Myr. By filtering and analyzing data from the Pipe3D Value Added Catalogue, I created metallicity gradient maps and identified distinct patterns among different galaxy types, such as blobs, inkblots, holes, and cigars. This research contributes to our understanding of galaxy evolution by providing insights into the ongoing processes in young stellar populations.
 You can view the Jupyter Notebook for this project [here](https://github.com/alishac928/alishachoudhary.GitHub.io/blob/main/galaxiesprojectmetallicity.ipynb) and the presentation [here](https://github.com/alishac928/alishachoudhary.GitHub.io/blob/main/galaxiesprojectmetallicity.ipynb)
 
+# Measuring Exoplanet Radii: GJ-436b & WD 1856+534b
+This project involved observing the transits of two exoplanets, GJ-436b and WD 1856+534b, using the 40-inch telescope at Mount Laguna Observatory. By capturing photometric data and modeling the transits' light curves using AstroImageJ (AIJ), I deduced the radii of these exoplanets. The radius of GJ-436b was determined to be 0.31419 ± 0.01803 RJ, and the radius of WD 1856+534b was found to be 0.92804 ± 0.03826 RJ. This project utilized advanced photometric techniques and data analysis tools to contribute to the understanding of exoplanetary characteristics.
+
+For more details, you can view the project writeup [here](https://github.com/alishac928/alishachoudhary.GitHub.io/blob/main/510_Paper.pdf).
+
