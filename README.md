@@ -14,4 +14,5 @@ https://rb.gy/liryb2
 
 # Exploring Metallicity Relations of Young Stellar Populations
 In this project, I investigated metallicity gradients in young stellar populations of galaxies using data from the SDSS-IV MaNGA survey. Inspired by recent findings on the stellar fundamental metallicity relation (sFMR), I aimed to identify metallicity trends in stellar populations younger than 300 Myr. By filtering and analyzing data from the Pipe3D Value Added Catalogue, I created metallicity gradient maps and identified distinct patterns among different galaxy types, such as blobs, inkblots, holes, and cigars. This research contributes to our understanding of galaxy evolution by providing insights into the ongoing processes in young stellar populations.
+You can view the Jupyter Notebook for this project [here] (https://github.com/alishac928/alishachoudhary.GitHub.io/blob/main/galaxiesprojectmetallicity.ipynb) and the presentation [here](https://github.com/alishac928/alishachoudhary.GitHub.io/blob/main/galaxiesprojectmetallicity.ipynb)
 
