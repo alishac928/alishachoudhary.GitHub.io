@@ -23,5 +23,7 @@ For more details, you can view the project writeup [here](https://github.com/ali
 
 # Astronomy 101 Lectures
 Here are links to my Astronomy 101 Lecture slides!
+
 On the night sky, ancient astronomy, and astrology vs. astronomy: [here](https://www.canva.com/design/DAGGfwehrW4/v7-UHYk5noiC0w9xPSxHIw/view?utm_content=DAGGfwehrW4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 On planetary orbits & gravity: [here](https://www.canva.com/design/DAGGuoF5M4c/3ro1Qb_EFWDL59aAaO0MKQ/view?utm_content=DAGGuoF5M4c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
