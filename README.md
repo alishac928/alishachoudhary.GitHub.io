@@ -21,3 +21,7 @@ This project involved observing the transits of two exoplanets, GJ-436b and WD 1
 
 For more details, you can view the project writeup [here](https://github.com/alishac928/alishachoudhary.GitHub.io/blob/main/510_Paper.pdf).
 
+# Astronomy 101 Lectures
+Here are links to my Astronomy 101 Lecture slides!
+(https://www.canva.com/design/DAGGfwehrW4/v7-UHYk5noiC0w9xPSxHIw/view?utm_content=DAGGfwehrW4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+(https://www.canva.com/design/DAGGuoF5M4c/3ro1Qb_EFWDL59aAaO0MKQ/view?utm_content=DAGGuoF5M4c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
