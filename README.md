@@ -30,5 +30,7 @@ On planetary orbits & gravity: [here](https://www.canva.com/design/DAGGuoF5M4c/3
 
 On our solar system: [here](https://www.canva.com/design/DAGHH5uHsv4/QV5aI1u_4LCV8aRShoEQKQ/view?utm_content=DAGHH5uHsv4&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 
+On stars & their life cycles: [here](https://www.canva.com/design/DAGHsioNQ7Q/CpM3oL5kbbIntxX3gVfZaQ/view?utm_content=DAGHsioNQ7Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 # Publications
 I am excited to share that I have been published on The Astronomer's Telegram [here](https://www.astronomerstelegram.org/?read=15779). I aided in obtaining photometry of the nova M31N 1984-07a. 
