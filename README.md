@@ -32,5 +32,7 @@ On our solar system: [here](https://www.canva.com/design/DAGHH5uHsv4/QV5aI1u_4LC
 
 On stars & their life cycles: [here](https://www.canva.com/design/DAGHsioNQ7Q/CpM3oL5kbbIntxX3gVfZaQ/view?utm_content=DAGHsioNQ7Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+On galaxies: [here](https://www.canva.com/design/DAGH2yx6LVI/-G0Qr7zR1QIixQR-xaQPiA/view?utm_content=DAGH2yx6LVI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 # Publications
 I am excited to share that I have been published on The Astronomer's Telegram [here](https://www.astronomerstelegram.org/?read=15779). I aided in obtaining photometry of the nova M31N 1984-07a. 
