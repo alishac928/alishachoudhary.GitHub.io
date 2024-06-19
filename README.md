@@ -34,5 +34,9 @@ On stars & their life cycles: [here](https://www.canva.com/design/DAGHsioNQ7Q/Cp
 
 On galaxies: [here](https://www.canva.com/design/DAGH2yx6LVI/-G0Qr7zR1QIixQR-xaQPiA/view?utm_content=DAGH2yx6LVI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+On the Big Bang: [here](https://www.canva.com/design/DAGIC5Kl2lQ/GD6qweZFvvhaWUo6YwjZLw/view?utm_content=DAGIC5Kl2lQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+On dark matter & dark energy: [here](https://www.canva.com/design/DAGIhzoK2iY/k3JMQbzCU2lj97hNeLK41w/view?utm_content=DAGIhzoK2iY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 # Publications
 I am excited to share that I have been published on The Astronomer's Telegram [here](https://www.astronomerstelegram.org/?read=15779). I aided in obtaining photometry of the nova M31N 1984-07a. 
